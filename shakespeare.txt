@@ -6,4 +6,6 @@ TYBALT: I got my thumb bit.
 
 JULIET: Wherefor art thou, Romulus?
 
-ROMEO: Blarg, I'm dead!
+ROMEO: Blarg, I'm dead! 
+
+Romeo dies.
